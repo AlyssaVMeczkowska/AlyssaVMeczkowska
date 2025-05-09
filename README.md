@@ -1,18 +1,17 @@
 # Hi! I'm Alyssa Meczkowska 🌸
 
-I'm a Computer Science student at [St. John's University](https://www.stjohns.edu) with a strong academic record, hands-on research experience in machine learning and cheminformatics, and a passion for teaching and advocacy in technology. I enjoy tackling challenging problems, learning new technologies, and collaborating on innovative projects.
+I'm a Computer Science student at [St. John's University](https://www.stjohns.edu) with a strong academic record, hands-on research experience in ML/AI, and a passion for teaching and advocacy in technology. I enjoy tackling challenging problems, learning new technologies, and collaborating on innovative projects.
 
-- 🔭 I'm currently conducting three different kinds of research, one of which is in cheminformatics, and the other two fall under the general overhead category of machine learning.
-- 🔭 I'm also working on a project utilizing MySQL to replicate a YMCA database
+- 🔭 I'm currently conducting three different kinds of research– cheminformatics, biomedical informatics, and quantum computing with vehicular clouds.
 - 🌱 I'm currently learning sentiment analysis and NLP
-- 💬 Ask me about Java, JavaScript, TypeScript, and SQL
+- 💬 Ask me about Python, Java, JavaScript, TypeScript, and SQL
 
 
 ## 🛠️ Skills
 
-- **Programming & Development:** Java, SQL, Python, JavaScript, TypeScript, HTML, CSS  
-- **Data & Database Tools:** MySQL Workbench  
-- **Other Tools:** Vim, Terminal
+- **Programming & Development:** Python, Java, JavaScript, TypeScript, SQL, HTML, and CSS
+- **Frameworks & Libraries:** React, TensorFlow, PyTorch, scikit-learn, BioBERT, spaCy 
+- **Tools & Platforms:** Git/GitHub, Linux/Vim, Jupyter Notebook, MySQL Workbench, Psi4, MIMIC-IV
 
 ## 📫 How to Reach Me
 
