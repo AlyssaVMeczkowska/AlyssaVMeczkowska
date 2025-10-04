@@ -9,7 +9,7 @@ I'm a Computer Science student at [St. John's University](https://www.stjohns.ed
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS
+- **Programming Languages:** Python, Java, C/C++, JavaScript/TypeScript, SQL
 - **Frameworks & Libraries:** React, TensorFlow, PyTorch, scikit-learn, BioBERT, HuggingFace, spaCy, pandas, NumPy
 - **Tools & Platforms:** Git/GitHub, Linux/Vim, Docker, Postman, PostgreSQL, Node.js, Jupyter, Psi4, Mimic III/IV
 
