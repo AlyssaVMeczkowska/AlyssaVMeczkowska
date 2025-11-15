@@ -1,6 +1,6 @@
 # Hi! I'm Alyssa Meczkowska 🌸
 
-I'm a Computer Science student at [St. John's University](https://www.stjohns.edu) with a strong academic record, hands-on research experience in ML/AI, and a passion for teaching and advocacy in technology. I enjoy tackling challenging problems, learning new technologies, and collaborating on innovative projects.
+I'm a Computer Science student at [St. John's University](https://www.stjohns.edu) with hands-on research experience in Quantum ML and AI, and a passion for teaching and advocacy in technology. I enjoy tackling challenging problems, learning new technologies, and collaborating on innovative projects.
 
 - 🔭 I'm currently conducting three different kinds of research– cheminformatics, biomedical informatics, and quantum computing in intelligent transportation systems.
 - 🌱 I'm currently learning sentiment analysis and NLP
