@@ -1,8 +1,8 @@
 # 🌸 Hi, I'm Alyssa!
-I am currently a senior Computer Science major at St. John's University!<br>
+I'm an incoming master's student in artificial intelligence at Columbia University<br>
 
 🔭 Currently conducting machine learning research
-<br>🌱 Learning about superconducting circuits and qubits!<br>⚡️ I am the Lead organizer of the Google Developer Group on Campus at St. John's University.
+<br>🌱 Learning about superconducting circuits and qubits!<br>⚡️ I was the Lead organizer of the Google Developer Group on Campus at St. John's University.
 
 # 🔬 My Research:
 My research focuses on applying machine learning to various computational and scientific areas. I currently work with ML for post-quantum cryptographic security, biomedical informatics, and cheminformatics.
