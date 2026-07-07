@@ -1,7 +1,7 @@
 # 🌸 Hi, I'm Alyssa!
 I'm an incoming MS AI student at Columbia University, with a concentration in AI Infrastructure.
 
-- Interested in AI/ML security research
+- My interests lie in AI/ML security research
 - Currently researching backdoor/trojan attacks on LLMs via data poisoning, and adversarial jailbreaking.
 - Competitive red teamer on the side
 
